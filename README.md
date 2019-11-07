@@ -2,6 +2,10 @@
 
 자전거를 보다 재밌게 이용할 수 있는 사용자 맞춤형 라이딩 서비스
 
+[runbike 사이트 바로가기](https://runbike.cf/runbike)
+- 테스트용 아이디 : mail@gmail.com
+- 테스트용 비밀번호 : 1234
+
 ### 개발 인원
 
 + 김다애 [@magiccircle03](https://github.com/magiccircle03) - 함께 라이딩
